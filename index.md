@@ -7,3 +7,7 @@ the change made to the file
 ``` javascript
 var Myvar = "Hello World!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
